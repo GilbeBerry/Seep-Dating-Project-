@@ -7,7 +7,7 @@ In this innovative project I delved into the extensive dataset from a Tinder eve
 
 This comprehensive analysis involved parsing through myriad data points, extracting meaningful insights, and crafting compelling visualizations. The goal was to discern patterns that illuminate the diverse landscape of human attraction, with a keen focus on how these dynamics manifest individually.
 
-Embark on this analytical journey by **following this link** (here, I'll include the link to where the project is hosted), where you'll discover a captivating Power BI report that brings the intricacies of this dataset to life.
+Embark on this analytical journey by **following this link** ( https://drive.google.com/drive/folders/1XCxkrPuam-7RJFzdD9mza5TR5gOwecHO?usp=sharing ), where you'll discover a captivating Power BI report that brings the intricacies of this dataset to life.
 
 ## Company's description 
 
