@@ -1,5 +1,4 @@
 # Speed-Dating-Project
-# Speed Dating with Tinder
 
 ## About this project
 
@@ -8,6 +7,16 @@ In this innovative project I delved into the extensive dataset from a Tinder eve
 This comprehensive analysis involved parsing through myriad data points, extracting meaningful insights, and crafting compelling visualizations. The goal was to discern patterns that illuminate the diverse landscape of human attraction, with a keen focus on how these dynamics manifest individually.
 
 Embark on this analytical journey by **following this link** ( https://drive.google.com/drive/folders/1XCxkrPuam-7RJFzdD9mza5TR5gOwecHO?usp=sharing ), where you'll discover a captivating Power BI report that brings the intricacies of this dataset to life.
+
+## Thanks
+
+I want to thank **Jedha Formation** and all the professors for the invaluable opportunity to learn and grow in the field of data analysis. Their dedication and expertise have been essential in strengthening my knowledge in SQL, Python, Power BI, and other software.
+
+Thank you for providing an exceptional and collaborative educational environment. This learning journey has been crucial for my professional development, and I am excited about the opportunities that have opened up as a result.
+
+Grateful!
+
+# Speed Dating with Tinder
 
 ## Company's description 
 
