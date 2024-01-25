@@ -2,7 +2,7 @@
 
 ## About this project
 
-In this innovative project I delved into the extensive dataset from a Tinder event where participants openly shared their preferences and values. This endeavor provided a unique opportunity to gain insights into the intricate tapestry of human connections. Exploring factors such as age, dating habits, professions, and personal interests, the aim was to unravel nuanced preferences that govern romantic inclinations.
+In this project I worked with a dataset from a Tinder event where participants openly shared their preferences and values. This endeavor provided an unique opportunity to gain insights into the intricate tapestry of human connections. Exploring factors such as age, dating habits, professions, and personal interests, the aim was to unravel nuanced preferences that govern romantic inclinations.
 
 This comprehensive analysis involved parsing through myriad data points, extracting meaningful insights, and crafting compelling visualizations. The goal was to discern patterns that illuminate the diverse landscape of human attraction, with a keen focus on how these dynamics manifest individually.
 
